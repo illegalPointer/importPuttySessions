@@ -1,0 +1,1 @@
+regedit /e "%cd%\putty-registry.reg" HKEY_CURRENT_USER\Software\Simontatham
